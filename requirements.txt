@@ -1,0 +1,5 @@
+splinter
+beautifulsoup4
+selenium
+pandas
+matplotlib
